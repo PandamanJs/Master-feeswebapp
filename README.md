@@ -2,7 +2,7 @@
 
 A modern, pure frontend school fee payment application built with React, TypeScript, and Vite. This application uses mock data to provide a complete demonstration of school fee payment functionality without requiring any backend services.
 
-## 🚀 Features
+##  Features
 
 ### Core Functionality
 - **Multi-Student Support**: Manage payments for multiple students under one guardian account
@@ -21,7 +21,7 @@ A modern, pure frontend school fee payment application built with React, TypeScr
 - **Country Code Selection**: Support for multiple country codes for WhatsApp numbers
 - **Receipt Management**: Download and view payment receipts
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Master-Fees/
@@ -52,7 +52,7 @@ Master-Fees/
 └── README.md                # This file
 ```
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **React 18.3.1**: Modern React with hooks
 - **TypeScript**: Type-safe development
@@ -61,7 +61,7 @@ Master-Fees/
 - **TailwindCSS**: Utility-first CSS framework
 - **Radix UI**: Accessible component primitives
 
-## 📦 Quick Start
+##  Quick Start
 
 1. **Install Dependencies**
    ```bash
@@ -85,7 +85,7 @@ Master-Fees/
 
 **No backend setup required!** This is a pure frontend application with mock data.
 
-## 🔐 Test Credentials
+##  Test Credentials
 
 The application includes test data for development:
 
@@ -104,7 +104,7 @@ The application includes test data for development:
 - **Phone**: +260955876543 or 0955876543
 - **Email**: john.p@example.com
 
-## 🔄 Data Flow
+##  Data Flow
 
 The application maintains consistent data flow across all pages:
 
@@ -123,7 +123,7 @@ The application maintains consistent data flow across all pages:
 - `selectedStudentIds`: Currently selected students
 - All state persisted in localStorage for session continuity
 
-## 🎨 Design System
+##  Design System
 
 ### Colors
 - **Primary**: #003630 (Dark Green)
@@ -135,7 +135,7 @@ The application maintains consistent data flow across all pages:
 - **Primary Font**: IBM Plex Sans Devanagari
 - **Secondary Font**: Inter
 
-## 🔧 Configuration
+##  Configuration
 
 ### TypeScript
 - Modern JSX transform (`react-jsx`)
@@ -146,7 +146,7 @@ The application maintains consistent data flow across all pages:
 - React SWC plugin for fast refresh
 - Optimized build configuration
 
-## 📱 Supported Payment Methods
+##  Supported Payment Methods
 
 - Visa
 - Mastercard
@@ -154,41 +154,9 @@ The application maintains consistent data flow across all pages:
 - MTN Mobile Money
 - Airtel Money
 
-## 🚦 Production Readiness
 
-### Code Quality
-- ✅ TypeScript for type safety
-- ✅ Comprehensive JSDoc comments
-- ✅ No console.log statements in production code
-- ✅ Unused imports removed
-- ✅ Proper error handling
-- ✅ Form validation
-
-### Performance
-- ✅ Code splitting
-- ✅ Lazy loading
-- ✅ Optimized bundle size
-- ✅ Fast development server
-
-### User Experience
-- ✅ Responsive design
-- ✅ Smooth animations
-- ✅ Loading states
-- ✅ Error messages
-- ✅ Accessibility features
-
-## 📄 License
-
-This project is based on the Figma design available at: https://www.figma.com/design/eraAEHQQQFJZX1sS80GdL2/Master-Fees
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
 5. Submit a pull request
 
-## 📞 Support
+##  Support
 
 For issues or questions, please refer to the project documentation or contact the development team.
